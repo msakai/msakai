@@ -1,6 +1,8 @@
-### Hi there 👋
+![Masahiro Sakai's GitHub stats](https://github-readme-stats.vercel.app/api?username=msakai)
 
 <!--
+### Hi there 👋
+
 **msakai/msakai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
