@@ -13,7 +13,7 @@
   </a>
 </div>
 
-![Masahiro Sakai's GitHub stats](https://github-readme-stats.vercel.app/api?username=msakai)
+![Masahiro Sakai's GitHub stats](./profile/stats.svg)
 
 <!--
 ### Hi there 👋
