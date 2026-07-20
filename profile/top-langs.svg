@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="175.78"
+          width="175.77"
           height="8"
           fill="#0530ad"
         />
@@ -138,7 +138,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="175.78"
+          x="175.77"
           y="0"
           width="36.63"
           height="8"
@@ -148,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="212.41"
+          x="212.4"
           y="0"
-          width="19.19"
+          width="19.2"
           height="8"
           fill="#5e5086"
         />
@@ -205,7 +205,7 @@
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#5e5086" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Haskell 7.67%
+        Haskell 7.68%
       </text>
     </g>
   </g></g><g transform="translate(234.29375000000005, 0)"><g transform="translate(0, 0)">
