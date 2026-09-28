@@ -138,7 +138,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="175.77"
+          width="175.74"
           height="8"
           fill="#0530ad"
         />
@@ -146,9 +146,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="175.77"
+          x="175.74"
           y="0"
-          width="36.63"
+          width="36.62"
           height="8"
           fill="#f34b7d"
         />
@@ -156,9 +156,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="212.4"
+          x="212.36"
           y="0"
-          width="19.2"
+          width="19.25"
           height="8"
           fill="#5e5086"
         />
@@ -166,7 +166,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="231.6"
+          x="231.61"
           y="0"
           width="17.59"
           height="8"
@@ -176,7 +176,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="239.19"
+          x="239.20000000000002"
           y="0"
           width="15.61"
           height="8"
@@ -186,7 +186,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="244.8"
+          x="244.81000000000003"
           y="0"
           width="15.2"
           height="8"
@@ -199,7 +199,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#0530ad" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Mathematical Programming System 70.31%
+        Mathematical Programming System 70.29%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
@@ -213,7 +213,7 @@
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#5e5086" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Haskell 7.68%
+        Haskell 7.70%
       </text>
     </g>
   </g></g><g transform="translate(231.51166689395902, 0)"><g transform="translate(0, 0)">
