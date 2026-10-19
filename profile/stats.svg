@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Masahiro Sakai&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 495, Total Commits  (last year) : 823, Total PRs: 1080, Total Issues: 141, Contributed to (last year): 13</desc>
+        <desc id="descId">Total Stars Earned: 495, Total Commits  (last year) : 816, Total PRs: 1081, Total Issues: 141, Contributed to (last year): 13</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 20.454275639726536;
+        stroke-dashoffset: 23.607388291302165;
       }
     }
   
@@ -184,7 +184,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >823</text>
+      >816</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
